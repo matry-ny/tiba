@@ -1,0 +1,32 @@
+{
+  "name": "tiba/api",
+  "description": "TiBa API",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dmytro Kotenko",
+      "email": "d.kotenko@i.ua"
+    }
+  ],
+  "config": {
+    "github-oauth": {
+      "github.com": "2c79f03434b90c8b82cbb127a1d4f53aab5fc963"
+    }
+  },
+  "repositories": [],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "2.0.1",
+    "yiisoft/yii2-swiftmailer": "2.0.3"
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "npm-asset-library": "vendor/npm",
+      "bower-asset-library": "vendor/bower"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.6"
+  }
+}
