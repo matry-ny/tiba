@@ -11,7 +11,7 @@
   ],
   "config": {
     "github-oauth": {
-      "github.com": ""
+      "github.com": "2c79f03434b90c8b82cbb127a1d4f53aab5fc963"
     }
   },
   "repositories": [],
